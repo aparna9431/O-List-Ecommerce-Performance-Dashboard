@@ -20,3 +20,5 @@ Top Performing States: Rio de Janeiro (RJ) leads in maximum payment values, foll
 
 **Outcome:**
 Delivered a comprehensive analytical report and dashboard that provided clear visibility into sales trends, customer behavior, and operational performance, enabling data-driven strategic decisions.
+
+Screenshot: https://github.com/aparna9431/O-List-Ecommerce-Performance-Dashboard/blob/main/Screenshot%202026-04-23%20192414.png
